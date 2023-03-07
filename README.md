@@ -4,7 +4,7 @@ Disallow direct evaluation of array literals inside if statement.
 
 ---
 
-##### Why?
+#### Why?
 If an array's length is 0, then it returns `true`, this can lead to unexpected behavior. 
 Therefore, this rule enforces to use `length` inside if statements, when variable is an array,
 or to check if an array is defined.
@@ -18,6 +18,8 @@ npm install --save-dev eslint-restricted-globals
 ```
 yarn add -D eslint-restricted-globals
 ```
+
+---
 
 ### ❌ Incorrect
 
