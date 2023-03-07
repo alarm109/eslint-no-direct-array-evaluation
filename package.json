@@ -1,0 +1,17 @@
+{
+  "name": "eslint-no-direct-array-evaluation",
+  "version": "1.0.0",
+  "description": "Eslint rule enforcing checking array length",
+  "main": "./lib/index.js",
+  "author": "Matas <matas109@gmail.com> (https://github.com/alarm109)",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@eslint-community/eslint-utils": "^4.2.0",
+    "eslint": "^8.35.0",
+    "jest": "^29.5.0"
+  }
+}
