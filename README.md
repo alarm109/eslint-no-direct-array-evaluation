@@ -12,11 +12,11 @@ or to check if an array is defined.
 ## Install
 
 ```
-npm install --save-dev eslint-restricted-globals
+npm install --save-dev eslint-no-direct-array-evaluation
 ```
 
 ```
-yarn add -D eslint-restricted-globals
+yarn add -D eslint-no-direct-array-evaluation
 ```
 
 ---
