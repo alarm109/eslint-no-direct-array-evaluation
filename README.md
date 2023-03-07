@@ -1,4 +1,4 @@
-# eslint-no-direct-array-evaluation
+# eslint-plugin-no-direct-array-evaluation
 
 Disallow direct evaluation of array literals inside if statement.
 
@@ -12,11 +12,11 @@ or to check if an array is defined.
 ## Install
 
 ```
-npm install --save-dev eslint-no-direct-array-evaluation
+npm install --save-dev eslint-plugin-no-direct-array-evaluation
 ```
 
 ```
-yarn add -D eslint-no-direct-array-evaluation
+yarn add -D eslint-plugin-no-direct-array-evaluation
 ```
 
 ---

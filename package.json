@@ -1,5 +1,5 @@
 {
-  "name": "eslint-no-direct-array-evaluation",
+  "name": "eslint-plugin-no-direct-array-evaluation",
   "version": "0.0.0-development",
   "private": false,
   "description": "Eslint rule enforcing checking array length",
@@ -28,6 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alarm109/eslint-no-direct-array-evaluation.git"
+    "url": "https://github.com/alarm109/eslint-plugin-no-direct-array-evaluation.git"
   }
 }

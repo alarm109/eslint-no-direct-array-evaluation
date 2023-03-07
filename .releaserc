@@ -1,6 +1,6 @@
 {
   "branches": [ "main", { name: 'alpha', prerelease: true } ],
-  "repositoryUrl": "https://github.com/alarm109/eslint-no-direct-array-evaluation",
+  "repositoryUrl": "https://github.com/alarm109/eslint-plugin-no-direct-array-evaluation",
   "plugins": [
     [
       "@semantic-release/commit-analyzer",
