@@ -1,3 +1,10 @@
+## [1.0.0-alpha.2](https://github.com/alarm109/eslint-plugin-no-direct-array-evaluation/compare/v1.0.0-alpha.1...v1.0.0-alpha.2) (2023-03-07)
+
+
+### Bug Fixes
+
+* eslint plugin naming ([2272662](https://github.com/alarm109/eslint-plugin-no-direct-array-evaluation/commit/2272662bbe7cbfbf245c2c9d55c9d2844cb60242))
+
 ## 1.0.0-alpha.1 (2023-03-07)
 
 
