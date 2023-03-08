@@ -1,3 +1,10 @@
+## [1.0.0-alpha.3](https://github.com/alarm109/eslint-plugin-no-direct-array-evaluation/compare/v1.0.0-alpha.2...v1.0.0-alpha.3) (2023-03-08)
+
+
+### Bug Fixes
+
+* underline the if statement parameter ([d8c9d6d](https://github.com/alarm109/eslint-plugin-no-direct-array-evaluation/commit/d8c9d6d5b6585f6082a4b6298fd3aa8f762ba12b))
+
 ## [1.0.0-alpha.2](https://github.com/alarm109/eslint-plugin-no-direct-array-evaluation/compare/v1.0.0-alpha.1...v1.0.0-alpha.2) (2023-03-07)
 
 

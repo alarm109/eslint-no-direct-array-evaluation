@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-direct-array-evaluation",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0-alpha.3",
   "private": false,
   "description": "Eslint rule enforcing checking array length",
   "license": "MIT",
